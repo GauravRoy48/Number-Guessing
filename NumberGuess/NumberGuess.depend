@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557469190 source:d:\softwares\codeblocks\projects\numberguess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
